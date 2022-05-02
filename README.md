@@ -1,6 +1,8 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o Erik Kauan</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=erikkauan&color=blueviolet" alt="Profile views" /> </p>
 
+<br><br>
+
 - 🔭 Apaixonado por tecnologia
 - 👨‍💻 Estudante Sistemas da Informação 5/8
 
